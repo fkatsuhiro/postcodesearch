@@ -1,0 +1,49 @@
+.width{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.marginleft {
+    margin-left: 10px;
+}
+
+.top-text {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2vw;
+}
+
+.box-radius {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    color: #333333;/*文字色*/
+    background: #FFF;
+    border: solid 3px #FFF;/*線*/
+    border-radius: 10px;/*角の丸み*/
+}
+
+body{
+    background-color: lightgray;
+}
+
+.item-center {
+    text-align: center;
+}
+
+.padding-bottom {
+    padding-bottom: 1em;
+}
+
+.text-display {
+    display: none;
+}
+
+.alart-text1 {
+    color: crimson;
+}
+
+.alart-text2 {
+    color: crimson;
+}
+
